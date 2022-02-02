@@ -344,7 +344,12 @@ h1 {
 
 h3 {
     text-align: center;
-    margin-right: 40px;
+    margin-right: 120px;
+}
+
+h2 {
+    text-align: center;
+    margin-right: 120px;
 }
 
 
